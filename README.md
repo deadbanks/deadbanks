@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deadbanks
 - 👀 I’m interested in blockchain technology and NFTs
 - 🌱 I’m currently learning basic python
-- 💞️ I’m looking to collaborate on a blockchain, nft typt thingy
+- 💞️ I’m looking to collaborate on a blockchain/nft project and software/hardware integrations
 - 📫 How to reach me explore@phigital.io
 
 <!---
